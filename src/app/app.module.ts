@@ -7,7 +7,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 
 import { HttpClientModule} from '@angular/common/http';
 import { HomeComponent } from './components/home/home.component';
-import { ChartComponent } from './components/chart/chart.component'
+import { ChartComponent } from './components/chart/chart.component';
 
 @NgModule({
   declarations: [

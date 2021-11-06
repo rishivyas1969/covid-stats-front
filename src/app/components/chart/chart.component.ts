@@ -25,8 +25,10 @@ export class ChartComponent implements OnInit {
         }
       }
       this.chartLables = [{"name":"India", "series": this.chartData}];
+
       console.log(this.chartLables);
     })
   }
+
 
 }
